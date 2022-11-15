@@ -1,0 +1,17 @@
+body {
+    padding-top: 70px;
+}
+.thumb {
+    width: 100px;
+}
+.largeImage{
+	width: 200px;
+	
+}
+.PortraitColumnPosition{
+text-align: center;
+
+}
+.AdjustImage{
+	text-align:center;
+}
